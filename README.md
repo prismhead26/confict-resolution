@@ -1,7 +1,4 @@
 # confict-resolution
 
-## This is a subheading
-
-Some content from Github
-
-Make some content local
+## This is a subheading created on GitHub
+ All of this content added to the readme file has been added from my remote GitHub repository.
